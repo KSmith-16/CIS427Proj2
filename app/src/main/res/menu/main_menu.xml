@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tempMenu"
+        android:title="Temperature"></item>
+    <item
+        android:id="@+id/distanceMenu"
+        android:checkable="false"
+        android:checked="false"
+        android:enabled="true"
+        android:title="Distance" />
+</menu>
